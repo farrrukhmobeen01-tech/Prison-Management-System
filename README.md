@@ -1,6 +1,6 @@
-# 🚀 Muhammad Imran Riaz
+# 🚀 M Farrukh Mubeen
 
-Hi, I'm **Muhammad Imran Riaz** – a passionate programmer from Pakistan 🇵🇰.  
+Hi, I'm **M Farrukh Mubeen** – a passionate programmer from Pakistan 🇵🇰.  
 I love building efficient and creative solutions using code. Whether it's web development, problem solving, or exploring new technologies – I'm always up for the challenge.
 
 ---
